@@ -1,0 +1,28 @@
+# good female voices
+Agnes
+Kathy
+Princess
+Vicki
+Victoria
+
+# good male voices
+Bruce
+Fred
+Junior
+Ralph
+
+# other voices
+Albert
+Bad News
+Bahh
+Bells
+Boing
+Bubbles
+Cellos
+Deranged
+Good News
+Hysterical
+Pipe Organ
+Trinoids
+Whisper
+Zarvox
