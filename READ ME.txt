@@ -1,8 +1,0 @@
-Description:
-  Will have your computer talk to you. If no phrase is passed in the computer will ask if you can hear it. If no voice is passed in "Whisper" is automatically selected.
-
-Response elements:
-   Voice  Will select the voice your computer uses.
-   Phrase Will be what you're computer says. Do not use punctuation.
-
-  Request URL
